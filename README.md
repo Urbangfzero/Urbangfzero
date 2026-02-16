@@ -21,6 +21,8 @@ I'm a **C# Developer** passionate about building robust applications and explori
 
 ## 📫 Let's Connect
 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) **urban_gfzero**
+
 Feel free to reach out if you want to collaborate or discuss anything tech-related!
 
 ---
